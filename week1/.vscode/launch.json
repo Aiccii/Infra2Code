@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Apple/KdG/Infrastructure/Infra2/Exercises/Week7/yassine-aichi/week1/test/src",
+      "program": "/Users/Apple/KdG/Infrastructure/Infra2/Exercises/Week7/yassine-aichi/week1/test/src/build/Debug/outDebug"
+    }
+  ]
+}

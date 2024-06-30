@@ -1,0 +1,13 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"delay.h": "c",
+			"time.h": "c",
+			"stdlib.h": "c",
+			"ledchaos.h": "c",
+			"led.h": "c",
+			"usart.h": "c"
+		}
+	}
+}

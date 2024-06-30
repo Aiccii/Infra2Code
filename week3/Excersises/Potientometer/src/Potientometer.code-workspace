@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "WK4_Example_Timers",
+			"path": "../../WK4_Example_Timers"
+		},
+		{
+			"name": "WK4_ExampleCode_Buzzer",
+			"path": "../../WK4_ExampleCode_Buzzer"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led.h": "c",
+			"button.h": "c",
+			"stdlib.h": "c",
+			"io.h": "c",
+			"usart.h": "c",
+			"delay.h": "c",
+			"interrupt.h": "c",
+			"stdio.h": "c",
+			"display.h": "c"
+		}
+	}
+}

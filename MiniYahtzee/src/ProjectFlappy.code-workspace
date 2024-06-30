@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Infra2/GitLabProjects/yassine-aichi/ProjectFlappy"
+		},
+		{
+			"name": "MiniYahtzee",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"display.h": "c",
+			"button.h": "c",
+			"delay.h": "c",
+			"potentio.h": "c"
+		}
+	}
+}

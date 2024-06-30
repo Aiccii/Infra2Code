@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "MorseCode",
+			"path": "../../../../../../../../MorseCode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c",
+			"delay.h": "c",
+			"usart.h": "c",
+			"stdio.h": "c",
+			"display.h": "c",
+			"unistd.h": "c",
+			"led.h": "c"
+		}
+	}
+}
